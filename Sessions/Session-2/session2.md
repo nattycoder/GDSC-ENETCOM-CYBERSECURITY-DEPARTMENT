@@ -312,6 +312,32 @@
         This is a free US SOCKS5 proxy.
     </p>
     <br>
+    <h4>Testing our configuration</h4>
+    <p>
+        As a first, we need to check our public IP address to then notice the changes. Execute this command:
+        <br>
+        <table>
+            <tr>
+                <td colspan="2">curl ifconfig.me</td>
+            </tr>
+        </table>
+        This will give you the IP addressed that your browser see, you can even check it on the browser, just type <b>what is my ip address</b> and you will get the same IP address that you checked via the command.
+        <br>
+        Now let's put our proxychains configuration into action, execute this command, you can use the Tor service btw, just type <b>tor</b> in a CLI, and the service will be on, you can check it by typing <b>service tor status</b> and it should be loaded and active.
+        <br>
+        Now open a new CLI and type this command:
+        <br>
+        <table>
+            <tr>
+                <td colspan="2">proxychains firefox dnsleaks</td>
+            </tr>
+        </table>
+        <br>
+        This command will open up firefox via the proxychains, and we specified our website in this command which is <b>dnsleaks</b>. This website will give us our current location and IP address that we're connected to the internet via.
+        <br>
+        If you configured the file correctly, a different location than yours will pop up, in our case it was in germany.
+    </p>
+    <br>
     <h4>Configuring a VPN</h4>
     <p>
         So before we proceed to configure a VPN connection we need to install some plugins, mainly for our Network Manager:
@@ -348,6 +374,30 @@
                 <td colspan="2">Download DE220 Server OpenVPN Config Bundle</td>
             </tr>
         </table>
+        <br>
+        A .zip file will be downloaded. <br>
+        Move to the location where you downloaded the file and execute this command:
+        <br>
+        <table>
+            <tr>
+                <td colspan="2">unzip vpnbook-openvpn-de220.zip</td>
+                <br>
+                If you ls, a new directory is created, move under it:
+                <td colspan="2">cd vpnbppd-openvp-de220/</td>
+                <br>
+                If you ls again, you will have 4 files under that directory, pick one and then execute this command:
+                <td colspan="2">openvpn --config vpnbook-de220-tcp443.ovpn</td>
+            </tr>
+            <br>
+            You will be promped to enter a username and then a password:
+            <br>
+            Username:<b> vpnbook</b>
+            Password:<b> b7dh4n3</b>
+            <br>
+            These credentials are found in the vpnbook website. And now a successful VPN connection is created.
+        </table>
+        <br>
+        Once the vpn service is up and running, you can even run the proxychains commands mentioned earlier to ensure an even safer browsing activity and a high anonymity, or just keep it simple via the VPN only.
     </p>
 </body>
 </html>

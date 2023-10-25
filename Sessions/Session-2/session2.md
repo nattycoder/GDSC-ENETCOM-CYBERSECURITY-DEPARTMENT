@@ -20,7 +20,6 @@
         <li>Secure Browsing</li>
     </ul>
     <hr style="color: darkred;">
-    <br>
     <h2>Inside a Computer</h2>
     <h3>How is a <b>Laptop</b> different than a <b>Desktop Computer</b>?</h3>
     <p>
@@ -392,9 +391,12 @@
         <br>
         You will be promped to enter a username and then a password:
         <br>
-        Username:<b> vpnbook</b>
-        Password:<b> b7dh4n3</b>
-        <br>
+        <table>
+            <tr>
+                <td>Username:<b> vpnbook</b></td>
+                <td>Password:<b> b7dh4n3</b></td>
+            </tr>
+        </table>
         These credentials are found in the vpnbook website. And now a successful VPN connection is created.
         <br>
         Once the vpn service is up and running, you can even run the proxychains commands mentioned earlier to ensure an even safer browsing activity and a high anonymity, or just keep it simple via the VPN only.

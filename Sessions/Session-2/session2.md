@@ -282,28 +282,40 @@
             </tr>
         </table>
         4 different modes will be displayed, by default you will find the mode used is static dns, comment it with a hashtag "#" and uncomment <b>dynamic</b> mode as we'll be using it.
+        <br>
         The main difference between all modes, is how your data will be hopping from a proxy server to another, in dynamic mode, as the name says, the traffic will be dynamically transfered between the different proxies (also called a proxy-chain : a set of proxies), unlike the static mode which will use the same proxies, or the random mode which will randomly choose a proxy from hop to the other.
+        <br>
         If you scroll down you will be displayed some proxy names with their IP addresses, the port they use, and sometimes a username and a password of that proxy.
+        <br>
         We can even add our own proxies.
+        <br>
         A good proxy example is <b>SOCKS5</b>, so an easy way to do it, is search using tor or whatever browser you want, for "free SOCKS5 proxy list", the first link you will encounter is <a href="https://freeproxyupdate.com/socks5-proxy">this</a>.
+        <br>
         When you enter the website, you will have different free proxies from around the world. In order to add one to the <b>proxychains.conf</b> file, scroll down to the bottom of the file, firstly type:
+        <br>
         <table>
             <tr>
                 <td colspan="2">SOCKS5 127.0.0.1 9050</td>
             </tr>
         </table>
+        <br>
         Then add one or more, from the proxy list you're seeing.
+        <br>
         A simple example in our case:
+        <br>
         <table>
             <tr>
                 <td colspan="2">SOCKS5 192.111.137.34 18765</td>
             </tr>
         </table>
+        <br>
         This is a free US SOCKS5 proxy.
     </p>
+    <br>
     <h4>Configuring a VPN</h4>
     <p>
         So before we proceed to configure a VPN connection we need to install some plugins, mainly for our Network Manager:
+        <br>
         <table>
             <tr>
                 <td colspan="2">sudo apt-get install network-manager-openvpn-gnome -y</td>
@@ -324,9 +336,13 @@
                 <td colspan="2">sudo apt-get install network-manager-vpnc-gnome -y</td>
             </tr>
         </table>
+        <br>
         Once done, we can then choose a VPN to install and configure.
+        <br>
         So, as we'll be working on free VPNs, let's check this website, <a href="https://www.vpnbook.com/">vpnbook</a>.
+        <br>
         Go to <b>OpenVPN</b> section, and then pick a VPN server of your choice and install it, in the session we used this one:
+        <br>
         <table>
             <tr>
                 <td colspan="2">Download DE220 Server OpenVPN Config Bundle</td>

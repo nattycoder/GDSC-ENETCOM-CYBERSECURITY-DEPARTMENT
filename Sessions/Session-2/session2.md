@@ -330,7 +330,6 @@
         <table>
             <tr>
                 <td colspan="2">Download DE220 Server OpenVPN Config Bundle</td>
-
             </tr>
         </table>
     </p>

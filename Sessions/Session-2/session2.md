@@ -26,7 +26,6 @@
         <li>Mandatory Steps</li>
         <li>Secure Browsing</li>
     </ul>
-    <hr style="color: darkred;">
     <br>
     <h2>Inside a Computer</h2>
     <h3>How is a <b>Laptop</b> different than a <b>Desktop Computer</b>?</h3>
@@ -76,7 +75,6 @@
     </p>
     <br>
     And a lot more...
-    <hr style="color: darkred;">
     <br>
     <h2>What is an OS (Operating System)</h2>
     <p>

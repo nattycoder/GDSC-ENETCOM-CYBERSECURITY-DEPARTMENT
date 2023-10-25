@@ -63,7 +63,7 @@
     </p>
     <hr>
     <h3>Hard Drive</h3>
-    <img src="![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/889f1849-dfd1-4a7c-aa7a-84dc9e328729)">
+    ![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/889f1849-dfd1-4a7c-aa7a-84dc9e328729)
     <p>
         The hard drive is where your software, documents, and other files are stored. The hard drive is long-term storage, which means the data 
         is still saved even if you turn the computer off or unplug it.

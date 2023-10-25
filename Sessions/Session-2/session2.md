@@ -165,6 +165,7 @@
         <li>Access to regional content</li>
         <li>Secure data transfer</li>
     </ul>
+    <br>
     <h4>How to surf securely with a VPN</h4>
     <ol>
         <li>Once you are online, start your VPN. The VPN acts as a secure tunnel between you and the internet. Your ISP and other third parties cannot detect this tunnel.</li>
@@ -172,10 +173,96 @@
         <li>You can now surf the internet at will, as the VPN protects all your personal data.</li>
     </ol>
     <br>
-    <h3>What is a PROXY</h3>
+    <h4>Summary</h4>
     <p>
-        Proxy server refers to a server that acts as an intermediary between the request made by clients, and a particular server for some services or requests for some resources. There are different types of proxy servers available that are put into use according to the purpose of a request made by the clients to the servers. The basic purpose of Proxy servers is to protect the direct connection of Internet clients and internet resources. The proxy server also prevents the identification of the client’s IP address when the client makes any request is made to any other servers.
+        A VPN offers a secure and reliable connection over the internet.
+        As we all know, your ISP logs all your internet activity, and shares all the logs with other third parties. When using a VPN, your traffic will bypass the ISP as it will go through the VPN.
+        Using a VPN ensures that our IP address is hidden (an IP address is briefly our ID on the internet), and the IP address of the VPN server is the one used/visible.
+        Our traffic/data is encrypted and protected thanks to the process of encapsulation, with an extra layer of protection, this is called <b>tunneling</b> (creating a virtual tunnel to transfer data).
+        With a VPN, we can access restricted content in other countries/locations.
+        Another use of VPN, is remote working as it provides a secure connection (private network).
     </p>
     <br>
+    <h3>What is a PROXY</h3>
+    <p>
+        A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network.    </p>
+    <br>
+    <h4>How does a PROXY work?</h4>
+    <p>
+        Because a proxy server has its own IP address, it acts as a go-between for a computer and the internet. Your computer knows this address, and when you send a request on the internet, it is routed to the proxy, which then gets the response from the web server and forwards the data from the page to your computer’s browser, like Chrome, Safari, Firefox, or Microsoft Edge.
+    </p>
+    <br>
+    <h4>Benefits of a PROXY server</h4>
+    <ul>
+        <li>Enhanced Security</li>
+        <li>Private Browsing</li>
+        <li>Access to location-specific content</li>
+        <li>Prevent employees from browsing inappropriate or distracting sites</li>
+    </ul>
+    <br>
+    <h4>Summary</h4>
+    <p>
+        A PROXY server retrieves data on the internet on behalf of a user.
+        It ensures privacy as it hodes your IP address when you want to surf the internet anonymously.
+        In terms of speed, a PROXY is faster than a VPN, because a PROXY has something called a cached web page database on its server, ensuring faster response when a user asks for a web page that's already in the cache.
+        A PROXY, similar to most network hardware, has activity logging (keeping track of network traffic/activity).
+        Compared to a VPN, proxy doesn't offer data encryption, this is why we can use a VPN with a proxy to ensure a secure tunnel.
+    </p>
+    <hr>
+    <br>
+    <h2>Secure Browsing: Be Anonymous Online</h2>
+    <p>
+        In this section we talked about the different levels of being anonymous online when accessing the dark net/web.
+        <b>PS:</b>
+        Dark Web/Net, is not only for illegal activities, but also for being secure and anonymous when browsing.
+    </p>
+    <br>
+    <h3>TOR Browser</h3>
+    <p>
+        The Tor browser, also known as the onion browser or dark web browser, is an abbreviation of the “The Onion Router.” It is a completely free, open-source browser that helps you surf the internet anonymously. It erases your browsing history automatically with every session and encrypts all your traffic.
+        <br>
+        With Tor, you can access the dark web — the hidden and un-indexed websites on the internet. Tor’s ability to enable users to access the internet freely has led to some countries blocking it entirely.
+    </p>
+    <br>
+    <h4>How does the TOR browser work?</h4>
+    <p>
+        When using the Tor browser, your data goes through different Tor servers (or nodes/relays):
+        <ul>
+            <li>Entry Node</li><p>This is the first node Tor connects with. Your IP address is visible here, but the entry node cannot see what you are connecting with.</p>
+            <li>Relay Node</li><p>This node passes along the traffic it receives.</p>
+            <li>Exit Node</li><p>This part of the Tor server forwards you to the website you want to see. Your IP address is not visible here, but your destination is.</p>
+        </ul>
+        The traffic is heavily encrypted at the first node and then slowly decoded — one layer at a time at the different nodes.
+        This triple-layered encryption comes with a disadvantage, though. The Tor browser is generally much slower than your bare internet connection. Because your online traffic is sent through different nodes, your internet connection will have to go the long way around and therefore become significantly slower.
+    </p>
+    <br>
+    <h4>The TOR browser and the Dark Web</h4>
+    <p>
+        The Tor browser is one of the best browsers for visiting the dark web anonymously.
+    </p>
+    <br>
+    <h4>How to Download and Install the Tor browser</h4>
+    <p>
+        You can follow this tutorial:
+        <a href="https://youtu.be/D6S6uldckxI">Youtube Video - HOW TO INSTALL TOR BROWSER ON KALI LINUX</a>
+        <p>
+            <b>PS:</b>
+            KALI linux is a similar distribution to PARROT SECURITY.
+        </p>
+        <br>
+        Or follow these steps:
+        <ol>
+            <li>Browse to this <a href="https://www.torproject.org/download/">page</a> and click on the penguin.</li>
+            <li>If your browser offers to open or save the file, choose the save file option.</li>
+            <li>The downloaded file is a .tar.xz file. We need to uncompress and untar it so that we can use its contents.</li>
+            <table>
+                <tr>
+                    <td colspan="2">tar -xvJf tor-browser-linux64-8.5.1_en-US.tar.xz</td>
+                </tr>
+            </table>
+            <li>A new directory will be created in the Downloads folder.</li>
+            <li>cd into the new directory</li>
+        </ol>
+    </p>
 </body>
 </html>

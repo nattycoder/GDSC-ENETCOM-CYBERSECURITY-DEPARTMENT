@@ -1,3 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+      <legend>CYBER SECURITY SESSION DOCUMENTATION</legend>
+      <p>This is the second session's documentation</p>
+      <h2>TOPICS DISCUSSED</h2>
+    </fieldset>
+</body>
+</html>
+
+
 # CYBER SECURITY SESSIONS DOCUMENTATION
 This is the second session's documentation
 
@@ -8,7 +25,7 @@ This is the second session's documentation
   - Networks
   - Mandatory Steps
   - Secure Browsing
-  - 
+    
 ## 1. Inside a Computer
 This section will help you master some of the basic terminology and understand a bit more about what goes on inside a computer.
 ### How is a laptop different from a desktop?
@@ -27,7 +44,7 @@ application, you're sending instructions to the CPU.
 #### PS: 
 A processor's speed is measured in megahertz (MHz), or millions of instructions per second; and gigahertz (GHz), or billions of 
 instructions per second. A faster processor can execute instructions more quickly. However, the actual speed of the computer depends 
-on the speed of many different components—not just the processor.
+on the speed of many different components not just the processor.
 
 ### c. RAM (Random Access Memory)
 RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until 
@@ -43,3 +60,43 @@ is still saved even if you turn the computer off or unplug it.
 The faster the hard drive, the faster your computer can start up and load programs.
 
 And a lot more...
+
+## 2. What is an OS (Operating System)
+Operating System lies in the category of system software. It basically manages all the resources of the computer. An operating system acts 
+as an interface between the software and different parts of the computer or the computer hardware.
+
+In essence, An Operating System (OS) is a collection of software that manages computer hardware resources and provides common services for 
+computer programs. The operating system is the most important type of system software in a computer system.
+
+### Functions of the OS:
+  - Ressource Management
+  - Process Management
+  - Memory Management
+  - Security
+  - Networking
+  - Device Management
+  - Virtualization
+  - Performance Monitoring
+And a lot more...
+
+### Examples of Operating Systems 
+  - Windows (GUI-based, PC)
+  - GNU/Linux (Personal, Workstations, ISP, File, and print server, Three-tier client/Server)
+  - macOS (Macintosh), used for Apple’s personal computers and workstations (MacBook, iMac).
+  - Android (Google’s Operating System for smartphones/tablets/smartwatches)
+  - iOS (Apple’s OS for iPhone, iPad, and iPod Touch)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

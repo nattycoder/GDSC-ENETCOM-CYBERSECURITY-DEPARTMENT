@@ -183,7 +183,7 @@
     <h3>What is a PROXY</h3>
     <p>
         A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network.    </p>
-    <br>
+    <hr>
     <h4>How does a PROXY work?</h4>
     <p>
         Because a proxy server has its own IP address, it acts as a go-between for a computer and the internet. Your computer knows this address, and when you send a request on the internet, it is routed to the proxy, which then gets the response from the web server and forwards the data from the page to your computer’s browser, like Chrome, Safari, Firefox, or Microsoft Edge.
@@ -412,7 +412,7 @@
     <hr>
     <h3>Tails Portable OS</h3>
     <p>Will be discussed in the next session (hopefully)</p>
-    <br>
+    <hr>
     <h3>Whonix OS</h3>
     <p>Will be discussed in the next session (hopefully)</p>
 </body>

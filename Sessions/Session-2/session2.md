@@ -63,7 +63,7 @@
     </p>
     <hr>
     <h3>Hard Drive</h3>
-    ![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/889f1849-dfd1-4a7c-aa7a-84dc9e328729)
+    <img src="https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_HardDrive-both-02.jpg">
     <p>
         The hard drive is where your software, documents, and other files are stored. The hard drive is long-term storage, which means the data 
         is still saved even if you turn the computer off or unplug it.
@@ -74,6 +74,7 @@
     <hr style="color: darkred;">
     <br>
     <h2>What is an OS (Operating System)</h2>
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230510120545/OS1.webp">
     <p>
         Operating System lies in the category of system software. It basically manages all the resources of the computer. An operating system acts 
         as an interface between the software and different parts of the computer or the computer hardware.
@@ -106,6 +107,7 @@
     <br>
     <h2>Virtualization</h2>
     <h3>What is Virtualization</h3>
+    <img src="https://cdn3.f-cdn.com/files/download/108501948/d1.png?fit=crop">
     <p>
         Virtualization uses software called <b>hypervisors</b> to create multiple virtual computers (known as <b>virtual machines</b> or VMs) on a single physical machine. These virtual machines can access all the parts of the physical machine, including the computer’s brain or processors, memory and storage.
         <br>
@@ -134,11 +136,13 @@
     And a lot more...
     <hr>
     <h3>What is a Hypervisor?</h3>
+    <img src="https://th.bing.com/th/id/OIP.Tf2E1EhQV1Un2v5M2meFsQHaD0?pid=ImgDet&rs=1">
     <p>
-        A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
+        A hypervisor, also known as a virtual machine monitor or VM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
     </p>
     <hr>
     <h3>What is a Virtual Machine?</h3>
+    <img src="https://th.bing.com/th/id/OIP.zWpHCj08oX2Jdty4iR7EXwHaHa?pid=ImgDet&rs=1">
     <p>
         There are several types of virtualization, each designed to optimize a specific area or component of computing.
     </p>
@@ -146,17 +150,18 @@
     <br>
     <h2>Networks: Importance of Network Security</h2>
     <p>
-        Network security encompasses all the steps taken to protect the integrity of a computer network and the data within it. Network security is important because it keeps sensitive data safe from cyber attacks and ensures the network is usable and trustworthy. Successful network security strategies employ multiple security solutions to protect users and organizations from malware and cyber attacks
+        Network security encompasses all the steps taken to protect the integrity of a computer network and the data within it. Network security is important because it keeps sensitive data safe from cyber-attacks and ensures the network is usable and trustworthy. Successful network security strategies employ multiple security solutions to protect users and organizations from malware and cyber attacks
     </p>
     <hr>
     <h3>What is a VPN</h3>
+    <img src="https://www.psdgraphics.com/wp-content/uploads/2020/11/vpn-shield-icon.jpg">
     <p>
-        VPN stands for "Virtual Private Network" and describes the opportunity to establish a protected network connection when using public networks. VPNs encrypt your internet traffic and disguise your online identity. This makes it more difficult for third parties to track your activities online and steal data. The encryption takes place in real time.
+        VPN stands for "Virtual Private Network" and describes the opportunity to establish a protected network connection when using public networks. VPNs encrypt your internet traffic and disguise your online identity. This makes it more difficult for third parties to track your activities online and steal data. The encryption takes place in real-time.
     </p>
     <hr>
     <h4>How does a VPN work?</h4>
     <p>
-        A VPN hides your IP address by letting the network redirect it through a specially configured remote server run by a VPN host. This means that if you surf online with a VPN, the VPN server becomes the source of your data. This means your Internet Service Provider (ISP) and other third parties cannot see which websites you visit or what data you send and receive online. A VPN works like a filter that turns all your data into "gibberish". Even if someone were to get their hands on your data, it would be useless.
+        A VPN hides your IP address by letting the network redirect it through a specially configured remote server run by a VPN host. This means that if you surf online with a VPN, the VPN server becomes your data source. This means your Internet Service Provider (ISP) and other third parties cannot see which websites you visit or what data you send and receive online. A VPN works like a filter that turns all your data into "gibberish". Even if someone were to get their hands on your data, it would be useless.
     </p>
     <hr>
     <h4>Benefits of a VPN connection</h4>
@@ -173,6 +178,7 @@
         <li>Your device is now on the local network of the VPN, and your IP address can be changed to an IP address provided by the VPN server.</li>
         <li>You can now surf the internet at will, as the VPN protects all your personal data.</li>
     </ol>
+    <img src="https://th.bing.com/th/id/R.8c1b3b4d7a91ce2153816a8f9611ec19?rik=%2fkJA5E%2ffxct3EQ&riu=http%3a%2f%2fwww.pc-doktor-blog.de%2fwp-content%2fuploads%2f2017%2f08%2fvpn-fritz-box.jpg&ehk=SYKZ8SM3gK3%2fq6z3pI9nebaQewYfrEWnhgs6rVRQFWY%3d&risl=&pid=ImgRaw&r=0">
     <hr>
     <h4>Summary</h4>
     <p>
@@ -181,10 +187,11 @@
         Using a VPN ensures that our IP address is hidden (an IP address is briefly our ID on the internet), and the IP address of the VPN server is the one used/visible.
         Our traffic/data is encrypted and protected thanks to the process of encapsulation, with an extra layer of protection, this is called <b>tunneling</b> (creating a virtual tunnel to transfer data).
         With a VPN, we can access restricted content in other countries/locations.
-        Another use of VPN, is remote working as it provides a secure connection (private network).
+        Another use of VPN is remote working as it provides a secure connection (private network).
     </p>
     <hr>
     <h3>What is a PROXY</h3>
+    <img src="https://networkencyclopedia.com/wp-content/uploads/2019/08/proxy-server-1024x649.png">
     <p>
         A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network.    </p>
     <hr>
@@ -204,28 +211,30 @@
     <h4>Summary</h4>
     <p>
         A PROXY server retrieves data on the internet on behalf of a user.
-        It ensures privacy as it hodes your IP address when you want to surf the internet anonymously.
+        It ensures privacy as it hides your IP address when you want to surf the internet anonymously.
         In terms of speed, a PROXY is faster than a VPN, because a PROXY has something called a cached web page database on its server, ensuring faster response when a user asks for a web page that's already in the cache.
         A PROXY, similar to most network hardware, has activity logging (keeping track of network traffic/activity).
-        Compared to a VPN, proxy doesn't offer data encryption, this is why we can use a VPN with a proxy to ensure a secure tunnel.
+        Compared to a VPN, the proxy doesn't offer data encryption, this is why we can use a VPN with a proxy to ensure a secure tunnel.
     </p>
     <hr>
     <br>
     <h2>Secure Browsing: Be Anonymous Online</h2>
     <p>
-        In this section we talked about the different levels of being anonymous online when accessing the dark net/web.
+        In this section, we talked about the different levels of being anonymous online when accessing the dark net/web.
         <b>PS:</b>
-        Dark Web/Net, is not only for illegal activities, but also for being secure and anonymous when browsing.
+        The dark Web/Net is not only for illegal activities but also for being secure and anonymous when browsing.
     </p>
     <hr>
     <h3>TOR Browser</h3>
+    <img src="https://th.bing.com/th/id/R.dbf3db5acf165d72ae41d56d373818a3?rik=dE88Ed1sWQ2V9w&pid=ImgRaw&r=0">
     <p>
-        The Tor browser, also known as the onion browser or dark web browser, is an abbreviation of the “The Onion Router.” It is a completely free, open-source browser that helps you surf the internet anonymously. It erases your browsing history automatically with every session and encrypts all your traffic.
+        The Tor browser, also known as the Onion browser or dark web browser, is an abbreviation of the “The Onion Router.” It is a completely free, open-source browser that helps you surf the internet anonymously. It erases your browsing history automatically with every session and encrypts all your traffic.
         <br>
         With Tor, you can access the dark web — the hidden and un-indexed websites on the internet. Tor’s ability to enable users to access the internet freely has led to some countries blocking it entirely.
     </p>
     <hr>
     <h4>How does the TOR browser work?</h4>
+    <img src="https://miro.medium.com/max/2560/1*j2aTFBQTd9e1PlFDjeKw1g.jpeg">
     <p>
         When using the Tor browser, your data goes through different Tor servers (or nodes/relays):
         <ul>
@@ -238,17 +247,18 @@
     </p>
     <hr>
     <h4>The TOR browser and the Dark Web</h4>
+    <img src="https://th.bing.com/th/id/R.3d131ddb697a702ce3e6a6fbdb4b110e?rik=B0DD9I8p6bSieQ&pid=ImgRaw&r=0">
     <p>
         The Tor browser is one of the best browsers for visiting the dark web anonymously.
     </p>
     <hr>
-    <h4>How to Download and Install the Tor browser</h4>
+    <h4>How to Download and Install the Tor Browser </h4>
     <p>
         You can follow this tutorial:
         <a href="https://youtu.be/D6S6uldckxI">Youtube Video - HOW TO INSTALL TOR BROWSER ON KALI LINUX</a>
         <p>
             <b>PS:</b>
-            KALI linux is a similar distribution to PARROT SECURITY.
+            KALI Linux is a similar distribution to PARROT SECURITY.
         </p>
         <br>
         Or follow these steps:
@@ -276,7 +286,7 @@
     <hr>
     <h3>Onion Links</h3>
     <p>
-        You can find some Onion Links in these two websites on the dark web:
+        You can find some Onion Links on these two websites on the dark web:
         <ul>
             <li><b>hidden wiki</b></li>
             <li><b>AHMIA</b></li>
@@ -285,6 +295,7 @@
     <hr>
     <h3>Tor with proxychains</h3>
     <h4>Configuring proxychains file</h4>
+    <img src="https://th.bing.com/th/id/OIP.Dt8Kj_0hcpgZjmDi4C19ZQHaFm?pid=ImgDet&w=724&h=547&rs=1">
     <p>
         <table>
             <tr>
@@ -293,15 +304,15 @@
         </table>
         4 different modes will be displayed, by default you will find the mode used is static dns, comment it with a hashtag "#" and uncomment <b>dynamic</b> mode as we'll be using it.
         <br>
-        The main difference between all modes, is how your data will be hopping from a proxy server to another, in dynamic mode, as the name says, the traffic will be dynamically transfered between the different proxies (also called a proxy-chain : a set of proxies), unlike the static mode which will use the same proxies, or the random mode which will randomly choose a proxy from hop to the other.
+        The main difference between all modes is how your data will be hopping from one proxy server to another, in dynamic mode, as the name says, the traffic will be dynamically transferred between the different proxies (also called a proxy chain: a set of proxies), unlike the static mode which will use the same proxies or the random mode which will randomly choose a proxy from hop to the other.
         <br>
         If you scroll down you will be displayed some proxy names with their IP addresses, the port they use, and sometimes a username and a password of that proxy.
         <br>
         We can even add our own proxies.
         <br>
-        A good proxy example is <b>SOCKS5</b>, so an easy way to do it, is search using tor or whatever browser you want, for "free SOCKS5 proxy list", the first link you will encounter is <a href="https://freeproxyupdate.com/socks5-proxy">this</a>.
+        A good proxy example is <b>SOCKS5</b>, so an easy way to do it, is to search using tor or whatever browser you want, for "free SOCKS5 proxy list", the first link you will encounter is <a href="https://freeproxyupdate.com/socks5-proxy">this</a>.
         <br>
-        When you enter the website, you will have different free proxies from around the world. In order to add one to the <b>proxychains.conf</b> file, scroll down to the bottom of the file, firstly type:
+        When you enter the website, you will have different free proxies from around the world. In order to add one to the <b>proxychains.conf</b> file, scroll down to the bottom of the file, and firstly type:
         <br>
         <table>
             <tr>
@@ -331,9 +342,9 @@
                 <td colspan="2">curl ifconfig.me</td>
             </tr>
         </table>
-        This will give you the IP addressed that your browser see, you can even check it on the browser, just type <b>what is my ip address</b> and you will get the same IP address that you checked via the command.
+        This will give you the IP address that your browser sees, you can even check it on the browser, just type <b>what is my IP address</b> and you will get the same IP address that you checked via the command.
         <br>
-        Now let's put our proxychains configuration into action, execute this command, you can use the Tor service btw, just type <b>tor</b> in a CLI, and the service will be on, you can check it by typing <b>service tor status</b> and it should be loaded and active.
+        Now let's put our proxychains configuration into action, execute this command, you can use the Tor service btw, just typing <b>tor</b> in a CLI, and the service will be on, you can check it by typing <b>service tor status</b> and it should be loaded and active.
         <br>
         Now open a new CLI and type this command:
         <br>
@@ -343,12 +354,13 @@
             </tr>
         </table>
         <br>
-        This command will open up firefox via the proxychains, and we specified our website in this command which is <b>dnsleaks</b>. This website will give us our current location and IP address that we're connected to the internet via.
+        This command will open up Firefox via the proxychains, and we specified our website in this command which is <b>dnsleaks</b>. This website will give us our current location and IP address so that we're connected to the internet.
         <br>
-        If you configured the file correctly, a different location than yours will pop up, in our case it was in germany.
+        If you configured the file correctly, a different location than yours will pop up, in our case, it was in Germany.
     </p>
     <hr>
     <h4>Configuring a VPN</h4>
+    <img src="https://th.bing.com/th/id/OIP.4io7Cqu3QtIDEGYy3HW88QHaEK?pid=ImgDet&rs=1">
     <p>
         So before we proceed to configure a VPN connection we need to install some plugins, mainly for our Network Manager:
         <br>
@@ -377,7 +389,7 @@
         <br>
         So, as we'll be working on free VPNs, let's check this website, <a href="https://www.vpnbook.com/">vpnbook</a>.
         <br>
-        Go to <b>OpenVPN</b> section, and then pick a VPN server of your choice and install it, in the session we used this one:
+        Go to <b>OpenVPN</b> section, and then pick a VPN server of your choice and install it, in the session, we used this one:
         <br>
         <table>
             <tr>
@@ -401,7 +413,7 @@
             </tr>
         </table>
         <br>
-        You will be promped to enter a username and then a password:
+        You will be prompted to enter a username and then a password:
         <br>
         <table>
             <tr>
@@ -409,9 +421,9 @@
                 <td>Password:<b> b7dh4n3</b></td>
             </tr>
         </table>
-        These credentials are found in the vpnbook website. And now a successful VPN connection is created.
+        These credentials are found on the vpnbook website. And now a successful VPN connection is created.
         <br>
-        Once the vpn service is up and running, you can even run the proxychains commands mentioned earlier to ensure an even safer browsing activity and a high anonymity, or just keep it simple via the VPN only.
+        Once the VPN service is up and running, you can even run the proxychains commands mentioned earlier to ensure an even safer browsing activity and high anonymity, or just keep it simple via the VPN only.
     </p>
     <hr>
     <h3>Tails Portable OS</h3>

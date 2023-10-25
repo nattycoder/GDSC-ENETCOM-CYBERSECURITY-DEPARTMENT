@@ -34,6 +34,7 @@
     </p>
     <hr>
     <h3>CPU/Processor</h3>
+    <img src="https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_CPU-02.jpg">
     <p>
         The central processing unit (CPU), also called a processor, is located inside the computer case on the motherboard. It is sometimes 
         called the brain of the computer, and its job is to carry out commands. Whenever you press a key, click the mouse, or start an 
@@ -47,6 +48,7 @@
     </p>
     <hr>
     <h3>RAM (Random Access Memory)</h3>
+    <img src="https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_RAM-02.jpg">
     <p>
         RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until 
         it is needed.
@@ -61,6 +63,7 @@
     </p>
     <hr>
     <h3>Hard Drive</h3>
+    <img src="![image](https://github.com/nattycoder/GDSC-ENETCOM-CYBERSECURITY-DEPARTMENT/assets/88007154/889f1849-dfd1-4a7c-aa7a-84dc9e328729)">
     <p>
         The hard drive is where your software, documents, and other files are stored. The hard drive is long-term storage, which means the data 
         is still saved even if you turn the computer off or unplug it.

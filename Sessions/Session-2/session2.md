@@ -10,7 +10,6 @@
         This is the second session's documentation
     </p>
     <hr>
-    <br>
     <h2>Topics Discussed</h2>
     <ul>
         <li>Computer Anatomy</li>
@@ -108,7 +107,7 @@
         <br>
         Each virtual machine runs on its own operating system and functions like a completely separate machine—even though it’s sharing the resources of one physical computer. This is the key feature of virtualization: a single physical machine running multiple tasks simultaneously on different virtual machines, instead of several computers each running a single task.
     </p>
-    <br>
+    <hr>
     <h3>Types of Virtualization</h3>
     <p>
         There are several types of virtualization, each designed to optimize a specific area or component of computing.
@@ -121,7 +120,7 @@
         <li>Applciation Virtualization</li>
         <li>Network Virtualization</li>
     </ul>
-    <br>
+    <hr>
     <h3>Benefits of Virtualization</h3>
     <ul>
         <li>Cost Savings</li>
@@ -129,12 +128,12 @@
         <li>Scalability and Flexibility</li>
     </ul>
     And a lot more...
-    <br>
+    <hr>
     <h3>What is a Hypervisor?</h3>
     <p>
         A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
     </p>
-    <br>
+    <hr>
     <h3>What is a Virtual Machine?</h3>
     <p>
         There are several types of virtualization, each designed to optimize a specific area or component of computing.
@@ -145,17 +144,17 @@
     <p>
         Network security encompasses all the steps taken to protect the integrity of a computer network and the data within it. Network security is important because it keeps sensitive data safe from cyber attacks and ensures the network is usable and trustworthy. Successful network security strategies employ multiple security solutions to protect users and organizations from malware and cyber attacks
     </p>
-    <br>
+    <hr>
     <h3>What is a VPN</h3>
     <p>
         VPN stands for "Virtual Private Network" and describes the opportunity to establish a protected network connection when using public networks. VPNs encrypt your internet traffic and disguise your online identity. This makes it more difficult for third parties to track your activities online and steal data. The encryption takes place in real time.
     </p>
-    <br>
+    <hr>
     <h4>How does a VPN work?</h4>
     <p>
         A VPN hides your IP address by letting the network redirect it through a specially configured remote server run by a VPN host. This means that if you surf online with a VPN, the VPN server becomes the source of your data. This means your Internet Service Provider (ISP) and other third parties cannot see which websites you visit or what data you send and receive online. A VPN works like a filter that turns all your data into "gibberish". Even if someone were to get their hands on your data, it would be useless.
     </p>
-    <br>
+    <hr>
     <h4>Benefits of a VPN connection</h4>
     <ul>
         <li>Secure Encryption</li>
@@ -163,14 +162,14 @@
         <li>Access to regional content</li>
         <li>Secure data transfer</li>
     </ul>
-    <br>
+    <hr>
     <h4>How to surf securely with a VPN</h4>
     <ol>
         <li>Once you are online, start your VPN. The VPN acts as a secure tunnel between you and the internet. Your ISP and other third parties cannot detect this tunnel.</li>
         <li>Your device is now on the local network of the VPN, and your IP address can be changed to an IP address provided by the VPN server.</li>
         <li>You can now surf the internet at will, as the VPN protects all your personal data.</li>
     </ol>
-    <br>
+    <hr>
     <h4>Summary</h4>
     <p>
         A VPN offers a secure and reliable connection over the internet.
@@ -180,7 +179,7 @@
         With a VPN, we can access restricted content in other countries/locations.
         Another use of VPN, is remote working as it provides a secure connection (private network).
     </p>
-    <br>
+    <hr>
     <h3>What is a PROXY</h3>
     <p>
         A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a private network.    </p>
@@ -189,7 +188,7 @@
     <p>
         Because a proxy server has its own IP address, it acts as a go-between for a computer and the internet. Your computer knows this address, and when you send a request on the internet, it is routed to the proxy, which then gets the response from the web server and forwards the data from the page to your computer’s browser, like Chrome, Safari, Firefox, or Microsoft Edge.
     </p>
-    <br>
+    <hr>
     <h4>Benefits of a PROXY server</h4>
     <ul>
         <li>Enhanced Security</li>
@@ -197,7 +196,7 @@
         <li>Access to location-specific content</li>
         <li>Prevent employees from browsing inappropriate or distracting sites</li>
     </ul>
-    <br>
+    <hr>
     <h4>Summary</h4>
     <p>
         A PROXY server retrieves data on the internet on behalf of a user.
@@ -214,14 +213,14 @@
         <b>PS:</b>
         Dark Web/Net, is not only for illegal activities, but also for being secure and anonymous when browsing.
     </p>
-    <br>
+    <hr>
     <h3>TOR Browser</h3>
     <p>
         The Tor browser, also known as the onion browser or dark web browser, is an abbreviation of the “The Onion Router.” It is a completely free, open-source browser that helps you surf the internet anonymously. It erases your browsing history automatically with every session and encrypts all your traffic.
         <br>
         With Tor, you can access the dark web — the hidden and un-indexed websites on the internet. Tor’s ability to enable users to access the internet freely has led to some countries blocking it entirely.
     </p>
-    <br>
+    <hr>
     <h4>How does the TOR browser work?</h4>
     <p>
         When using the Tor browser, your data goes through different Tor servers (or nodes/relays):
@@ -233,12 +232,12 @@
         The traffic is heavily encrypted at the first node and then slowly decoded — one layer at a time at the different nodes.
         This triple-layered encryption comes with a disadvantage, though. The Tor browser is generally much slower than your bare internet connection. Because your online traffic is sent through different nodes, your internet connection will have to go the long way around and therefore become significantly slower.
     </p>
-    <br>
+    <hr>
     <h4>The TOR browser and the Dark Web</h4>
     <p>
         The Tor browser is one of the best browsers for visiting the dark web anonymously.
     </p>
-    <br>
+    <hr>
     <h4>How to Download and Install the Tor browser</h4>
     <p>
         You can follow this tutorial:
@@ -270,7 +269,7 @@
             </table>
         </ol>
     </p>
-    <br>
+    <hr>
     <h3>Onion Links</h3>
     <p>
         You can find some Onion Links in these two websites on the dark web:
@@ -279,7 +278,7 @@
             <li><b>AHMIA</b></li>
         </ul>    
     </p>
-    <br>
+    <hr>
     <h3>Tor with proxychains</h3>
     <h4>Configuring proxychains file</h4>
     <p>
@@ -318,7 +317,7 @@
         <br>
         This is a free US SOCKS5 proxy.
     </p>
-    <br>
+    <hr>
     <h4>Testing our configuration</h4>
     <p>
         As a first, we need to check our public IP address to then notice the changes. Execute this command:
@@ -344,7 +343,7 @@
         <br>
         If you configured the file correctly, a different location than yours will pop up, in our case it was in germany.
     </p>
-    <br>
+    <hr>
     <h4>Configuring a VPN</h4>
     <p>
         So before we proceed to configure a VPN connection we need to install some plugins, mainly for our Network Manager:
@@ -410,6 +409,7 @@
         <br>
         Once the vpn service is up and running, you can even run the proxychains commands mentioned earlier to ensure an even safer browsing activity and a high anonymity, or just keep it simple via the VPN only.
     </p>
+    <hr>
     <h3>Tails Portable OS</h3>
     <p>Will be discussed in the next session (hopefully)</p>
     <br>

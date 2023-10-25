@@ -20,6 +20,7 @@
         <li>Mandatory Steps</li>
         <li>Secure Browsing</li>
     </ul>
+    <hr>
     <br>
     <h2>Inside a Computer</h2>
     <h3>How is a <b>Laptop</b> different than a <b>Desktop Computer</b>?</h3>
@@ -33,7 +34,7 @@
         and optical drives, expansion cards to control the video and audio, and connections to your computer's ports (such as USB ports). 
         The motherboard connects directly or indirectly to every part of the computer.
     </p>
-    <hr>
+    <br>
     <h3>CPU/Processor</h3>
     <p>
         The central processing unit (CPU), also called a processor, is located inside the computer case on the motherboard. It is sometimes 
@@ -46,7 +47,7 @@
         instructions per second. A faster processor can execute instructions more quickly. However, the actual speed of the computer depends 
         on the speed of many different components not just the processor.
     </p>
-    <hr>
+    <br>
     <h3>RAM (Random Access Memory)</h3>
     <p>
         RAM is your system's short-term memory. Whenever your computer performs calculations, it temporarily stores the data in the RAM until 
@@ -60,7 +61,7 @@
             RAM is measured in megabytes (MB) or gigabytes (GB). The more RAM you have, the more things your computer can do at the same time.
         </p>
     </p>
-    <hr>
+    <br>
     <h3>Hard Drive</h3>
     <p>
         The hard drive is where your software, documents, and other files are stored. The hard drive is long-term storage, which means the data 
@@ -69,6 +70,7 @@
     </p>
     <br>
     And a lot more...
+    <hr>
     <br>
     <h2>What is an OS (Operating System)</h2>
     <p>

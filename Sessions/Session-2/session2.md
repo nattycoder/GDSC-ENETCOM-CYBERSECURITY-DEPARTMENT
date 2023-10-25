@@ -26,6 +26,7 @@
         in terms of setting it up.
     </p>
     <h3>Motherboard</h3>
+    https://media.gcflearnfree.org/content/55e073157dd48174331f5168_01_17_2014/Inside_Motherboard_v1-02.jpg
     <p>
         The motherboard is the computer's main circuit board. It's a thin plate that holds the CPU, memory, connectors for the hard drive 
         and optical drives, expansion cards to control the video and audio, and connections to your computer's ports (such as USB ports). 

@@ -3,6 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body{
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
 </head>
 <body>
     <h1>CYBER SECURITY SESSIONS DOCUMENTATION</h1>
@@ -20,7 +26,7 @@
         <li>Mandatory Steps</li>
         <li>Secure Browsing</li>
     </ul>
-    <hr>
+    <hr style="color: darkred;">
     <br>
     <h2>Inside a Computer</h2>
     <h3>How is a <b>Laptop</b> different than a <b>Desktop Computer</b>?</h3>
@@ -70,7 +76,7 @@
     </p>
     <br>
     And a lot more...
-    <hr>
+    <hr style="color: darkred;">
     <br>
     <h2>What is an OS (Operating System)</h2>
     <p>

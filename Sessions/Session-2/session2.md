@@ -92,7 +92,7 @@
         <li>Performance Monitoring</li>
     </ul>
     And a lot more...
-    <hr>
+    <br>
     <h3>Examples of OS</h3>
     <ul>
         <li>Windows (GUI-based, PC)</li>

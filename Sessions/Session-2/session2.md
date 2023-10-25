@@ -271,6 +271,15 @@
         </ol>
     </p>
     <br>
+    <h3>Onion Links</h3>
+    <p>
+        You can find some Onion Links in these two websites on the dark web:
+        <ul>
+            <li><b>hidden wiki</b></li>
+            <li><b>AHMIA</b></li>
+        </ul>    
+    </p>
+    <br>
     <h3>Tor with proxychains</h3>
     <h4>Configuring proxychains file</h4>
     <p>
@@ -401,5 +410,10 @@
         <br>
         Once the vpn service is up and running, you can even run the proxychains commands mentioned earlier to ensure an even safer browsing activity and a high anonymity, or just keep it simple via the VPN only.
     </p>
+    <h3>Tails Portable OS</h3>
+    <p>Will be discussed in the next session (hopefully)</p>
+    <br>
+    <h3>Whonix OS</h3>
+    <p>Will be discussed in the next session (hopefully)</p>
 </body>
 </html>

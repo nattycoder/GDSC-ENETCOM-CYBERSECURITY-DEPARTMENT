@@ -7,8 +7,6 @@ You will also find commands related to user management, processes, etc.
 
 ## Basic Commands
 
-### 1. `ls` - List Directory Contents
-
 The `ls` command is used to list files and directories in the current directory.
 ```bash
 $ ls
